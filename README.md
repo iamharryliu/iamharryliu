@@ -1,8 +1,9 @@
-### Hi there 👋, My name is Harry.
+### Hi there 👋, my name is Harry.
 
-#### Software Developer from Toronto 🇨🇦
+#### Software Developer from Toronto, Canada 🇨🇦
 
-<a href="https://harryliu.design/">harryliu.design</a>
+### [harryliu.design](https://harryliu.design/)
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamharryliu/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harryliu1995@gmail.com)
 
