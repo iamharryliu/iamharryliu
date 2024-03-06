@@ -2,9 +2,9 @@
 
 #### Software Developer from Toronto 🇨🇦
 
-- <a href="https://harryliu.design/">harryliu.design</a>
-- <a href="https://www.linkedin.com/in/iamharryliu/">LinkedIn</a>
-- <a href="mailto:harryliu1995@gmail.com">harryliu1995@gmail.com</a>
+<a href="https://harryliu.design/">harryliu.design</a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/iamharryliu/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harryliu1995@gmail.com)
 
 ![Views](https://komarev.com/ghpvc/?username=iamharryliu)
 
