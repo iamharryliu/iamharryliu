@@ -9,7 +9,7 @@
 
 ![Views](https://komarev.com/ghpvc/?username=iamharryliu)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iamharryliu&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=iamharryliu&theme=dark)](https://git.io/streak-stats) -->
 
 ![Metrics](/github-metrics.svg)
 
