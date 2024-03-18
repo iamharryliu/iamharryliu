@@ -2,6 +2,12 @@
 
 #### Software Developer from Toronto, Canada 🇨🇦
 
+Personal projects I am currently working on right now are:
+
+- blog section of personal website
+- spotify to mp3 library script for DJing purposes
+- Vibecheck Lite and Vibecheck
+
 ### [harryliu.design](https://harryliu.design/)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamharryliu/)
