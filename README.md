@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Harry.! [Views](https://komarev.com/ghpvc/?username=iamharryliu)
+### Hi there 👋, my name is Harry. ![Views](https://komarev.com/ghpvc/?username=iamharryliu)
 
 #### Software Developer from Toronto, Canada 🇨🇦
 
