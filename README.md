@@ -2,9 +2,12 @@
 
 #### Software Developer from Toronto, Canada 🇨🇦
 
-Personal projects I am currently working on right now are:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamharryliu)](https://github.com/iamharryliu/github-readme-stats)
 
-- blog section of personal website
+Current ongoing projects outside of work:
+
+- GTA update alerts
+- harryliu.design blog section
 - Vibecheck Lite and Vibecheck
 
 ## Github Action Statuses
@@ -21,5 +24,4 @@ Personal projects I am currently working on right now are:
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=iamharryliu&theme=dark)](https://git.io/streak-stats) -->
 
-![Metrics](/github-metrics.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamharryliu)](https://github.com/iamharryliu/github-readme-stats)
+<!-- ![Metrics](/github-metrics.svg) -->
