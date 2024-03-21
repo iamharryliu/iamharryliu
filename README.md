@@ -5,7 +5,6 @@
 Personal projects I am currently working on right now are:
 
 - blog section of personal website
-- spotify to mp3 library script for DJing purposes
 - Vibecheck Lite and Vibecheck
 
 [![Static Badge](https://img.shields.io/badge/Personal_Website:-harryliu.design-blue)](https://harryliu.design/)
