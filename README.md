@@ -4,9 +4,12 @@
 
 Current ongoing projects outside of work:
 
-- GTA update alerts
-- harryliu.design blog section
-- Vibecheck Lite and Vibecheck
+- [GTA Update Alerts](https://gta-update-alerts-flask.fly.dev/)
+  - keyword filtering
+- [harryliu.design](https://harryliu.design/)
+  - blog section
+- [Vibecheck Lite](https://harryliu.design/projects/vibecheck-lite/app)
+  - enhacning responses
 
 ## Connect With Me
 
