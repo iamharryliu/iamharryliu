@@ -2,13 +2,6 @@
 
 #### Software Developer from Toronto, Canada 🇨🇦
 
-Current ongoing projects outside of work:
-
-- [harryliu.design](https://harryliu.design/)
-  - analytics
-- [Vibecheck Lite](https://harryliu.design/projects/vibecheck-lite/app)
-  - enhacning responses
-
 ## Connect With Me
 
 [![Static Badge](https://img.shields.io/badge/Personal_Website:-harryliu.design-blue)](https://harryliu.design/)
