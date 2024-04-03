@@ -16,9 +16,9 @@
 
 [![Monitor Apps](https://github.com/iamharryliu/vigilant-broccoli/actions/workflows/monitor-apps.yml/badge.svg)](https://github.com/iamharryliu/vigilant-broccoli/actions/workflows/monitor-apps.yml)
 
-[![Deploy GTA Update Alert App](https://github.com/iamharryliu/vigilant-broccoli/actions/workflows/deploy-gta-update-alert.yml/badge.svg)](https://github.com/iamharryliu/vigilant-broccoli/actions/workflows/deploy-gta-update-alert.yml)
+[![Toronto Alerts - Deploy App Status](https://github.com/iamharryliu/vigilant-broccoli/actions/workflows/deploy-gta-update-alert.yml/badge.svg)](https://github.com/iamharryliu/vigilant-broccoli/actions/workflows/deploy-gta-update-alert.yml)
 
-[![GTA Update Alert - Email Subscribers](https://github.com/iamharryliu/vigilant-broccoli/actions/workflows/email-gta-update-alert-subscribers.yml/badge.svg)](https://github.com/iamharryliu/vigilant-broccoli/actions/workflows/email-gta-update-alert-subscribers.yml)
+[![Toronto Alerts - Email Subscribers Status](https://github.com/iamharryliu/vigilant-broccoli/actions/workflows/email-gta-update-alert-subscribers.yml/badge.svg)](https://github.com/iamharryliu/vigilant-broccoli/actions/workflows/email-gta-update-alert-subscribers.yml)
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=iamharryliu&theme=dark)](https://git.io/streak-stats) -->
 
