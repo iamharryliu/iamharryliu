@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Harry. ![Views](https://komarev.com/ghpvc/?username=iamharryliu)
+### Hi there 👋, my name is Harry.
 
 #### Software Developer from Toronto, Canada 🇨🇦
 
@@ -23,6 +23,8 @@
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=iamharryliu&theme=dark)](https://git.io/streak-stats) -->
 
 ## Github Stats
+
+![Views](https://komarev.com/ghpvc/?username=iamharryliu)
 
 ![Metrics](/github-metrics.svg)
 
