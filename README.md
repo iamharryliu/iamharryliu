@@ -4,7 +4,7 @@
 
 ##### Father of [torontoalerts.com](https://torontoalerts.com/) 🫡
 
-##### [Help me pay for coffee?](https://ko-fi.com/prettydamntired)>
+##### [Help me pay for coffee?](https://ko-fi.com/prettydamntired)
 
 ## Connect With Me
 
