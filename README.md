@@ -20,8 +20,6 @@
 
 [![Toronto Alerts - Deploy App Status](https://github.com/iamharryliu/vigilant-broccoli/actions/workflows/deploy-toronto-alerts-app.yml/badge.svg)](https://github.com/iamharryliu/vigilant-broccoli/actions/workflows/deploy-toronto-alerts-app.yml)
 
-[![Toronto Alerts - Email Subscribers Status](https://github.com/iamharryliu/vigilant-broccoli/actions/workflows/email-toronto-alerts-subscribers.yml/badge.svg)](https://github.com/iamharryliu/vigilant-broccoli/actions/workflows/email-toronto-alerts-subscribers.yml)
-
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=iamharryliu&theme=dark)](https://git.io/streak-stats) -->
 
 ## Github Stats
