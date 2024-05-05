@@ -8,9 +8,9 @@
 
 [![Static Badge](https://img.shields.io/badge/Monorepo:-vigilant--broccoli-blue)](https://github.com/iamharryliu/vigilant-broccoli)
 
-[![Static Badge](https://img.shields.io/badge/Toronto_Alerts-blue)](https://torontoalerts.com/)
+[![Static Badge](https://img.shields.io/badge/Notification_System-Toronto_Alerts-blue)](https://torontoalerts.com/)
 
-[![Static Badge](https://img.shields.io/badge/Cloud8Skate-blue)](https://cloud8skate.com/)
+[![Static Badge](https://img.shields.io/badge/Toronto_Skate_Group-Cloud8Skate-blue)](https://cloud8skate.com/)
 
 ## Connect With Me
 
