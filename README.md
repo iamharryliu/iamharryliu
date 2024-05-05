@@ -2,9 +2,15 @@
 
 #### Software Developer from Toronto, Canada 🇨🇦
 
+If you are interested in seeing my code, please checkout my monorepo
+
 ##### Father of [torontoalerts.com](https://torontoalerts.com/) 🫡
 
 ##### [Buy me coffee? 🥺](https://ko-fi.com/prettydamntired)
+
+## Personal Projects
+
+[![Static Badge](https://img.shields.io/badge/Personal_Website:-vigilant-broccoli-blue)](https://github.com/iamharryliu/vigilant-broccoli)
 
 ## Connect With Me
 
