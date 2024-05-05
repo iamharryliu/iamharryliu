@@ -1,8 +1,6 @@
-### Hi there 👋, my name is Harry.
+### Hi there! 👋 I am Harry, a software developer from Toronto, Canada 🇨🇦.
 
-#### Software Developer from Toronto, Canada 🇨🇦
-
-##### [Buy me coffee? 🥺](https://ko-fi.com/prettydamntired)
+#### [Buy me coffee? 🥺](https://ko-fi.com/prettydamntired)
 
 ## Personal Projects
 
