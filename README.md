@@ -10,9 +10,9 @@ If you are interested in seeing my code, please checkout my monorepo
 
 ## Personal Projects
 
-[![Static Badge](https://img.shields.io/badge/Personal_Monorepo:-vigilant--broccoli-blue)](https://github.com/iamharryliu/vigilant-broccoli)
+[![Static Badge](https://img.shields.io/badge/Website:-harryliu.design-blue)](https://harryliu.design/)
 
-[![Static Badge](https://img.shields.io/badge/Personal_Website:-harryliu.design-blue)](https://harryliu.design/)
+[![Static Badge](https://img.shields.io/badge/Monorepo:-vigilant--broccoli-blue)](https://github.com/iamharryliu/vigilant-broccoli)
 
 [![Static Badge](https://img.shields.io/badge/Toronto_Alerts-blue)](https://torontoalerts.com/)
 
