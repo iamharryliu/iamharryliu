@@ -10,11 +10,12 @@ If you are interested in seeing my code, please checkout my monorepo
 
 ## Personal Projects
 
-[![Static Badge](https://img.shields.io/badge/Personal_Website:-vigilant-broccoli-blue)](https://github.com/iamharryliu/vigilant-broccoli)
+[![Static Badge](https://img.shields.io/badge/Personal_Monorepo:-vigilant--broccoli-blue)](https://github.com/iamharryliu/vigilant-broccoli)
+[![Static Badge](https://img.shields.io/badge/Personal_Website:-harryliu.design-blue)](https://harryliu.design/)
+[![Static Badge](https://img.shields.io/badge/Toronto_Alerts-blue)](https://torontoalerts.com/)
+[![Static Badge](https://img.shields.io/badge/Cloud8Skate-blue)](https://cloud8skate.com/)
 
 ## Connect With Me
-
-[![Static Badge](https://img.shields.io/badge/Personal_Website:-harryliu.design-blue)](https://harryliu.design/)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamharryliu/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harryliu1995@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/prettydamntired/) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22z5agodra7fwhm2erdqn5bjq) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/prettydamntired)
 
