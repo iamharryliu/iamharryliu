@@ -2,7 +2,7 @@
 
 #### [Buy me coffee? 🥺](https://ko-fi.com/prettydamntired)
 
-## Personal Projects
+## Personal Software Projects
 
 [![Static Badge](https://img.shields.io/badge/Website:-harryliu.design-blue)](https://harryliu.design/)
 
@@ -34,4 +34,4 @@
 
 ![Metrics](/github-metrics.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamharryliu)](https://github.com/iamharryliu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamharryliu)](https://github-readme-stats.vercel.app/api/top-langs/?username=iamharryliu)
