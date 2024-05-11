@@ -36,11 +36,11 @@
 
 ## Github Stats
 
-<div style="display: inline-block; width: 50%;">
+<div style="display: inline;">
     <img src="/github-metrics.svg" alt="Metrics" style="height: 300px;">
 </div>
 
-<div style="display: inline-block; width: 50%;">
+<div style="display: inline; ">
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=iamharryliu">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamharryliu" alt="Top Langs" style="height: 300px;">
     </a>
