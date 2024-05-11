@@ -36,6 +36,14 @@
 
 ## Github Stats
 
-![Metrics](/github-metrics.svg)
+<div style="display: flex; flex-direction: column;">
+    <img src="/github-metrics.svg" alt="Metrics" style="height: 300px;">
+    <div style="flex: 1;"></div>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamharryliu)](https://github-readme-stats.vercel.app/api/top-langs/?username=iamharryliu)
+<div style="display: flex; flex-direction: column;">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=iamharryliu">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamharryliu" alt="Top Langs" style="height: 300px;">
+    </a>
+    <div style="flex: 1;"></div>
+</div>
