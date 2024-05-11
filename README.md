@@ -1,8 +1,5 @@
-<div>
-### Hi there! 👋 I am Harry, a software developer from Toronto, Canada 🇨🇦.
+### Hi there! 👋 I am Harry, a software developer from Toronto, Canada 🇨🇦. ![Views](https://komarev.com/ghpvc/?username=iamharryliu)
 
-<img src="https://komarev.com/ghpvc/?username=iamharryliu" alt="Views" style="float: right;">
-</div>
 #### [Buy me coffee? 🥺](https://ko-fi.com/prettydamntired)
 
 ## Personal Software Projects
