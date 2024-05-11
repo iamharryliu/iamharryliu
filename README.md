@@ -36,14 +36,12 @@
 
 ## Github Stats
 
-<div style="display: flex; flex-direction: column;">
+<div style="display: inline-block; width: 50%;">
     <img src="/github-metrics.svg" alt="Metrics" style="height: 300px;">
-    <div style="flex: 1;"></div>
 </div>
 
-<div style="display: flex; flex-direction: column;">
+<div style="display: inline-block; width: 50%;">
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=iamharryliu">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamharryliu" alt="Top Langs" style="height: 300px;">
     </a>
-    <div style="flex: 1;"></div>
 </div>
