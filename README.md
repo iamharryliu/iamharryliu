@@ -1,4 +1,4 @@
-### Hi there! 👋 I am Harry, a software developer from Toronto, Canada 🇨🇦.
+### Hi there! 👋 I am Harry, a software developer from Toronto, Canada 🇨🇦. ![Views](https://komarev.com/ghpvc/?username=iamharryliu)
 
 #### [Buy me coffee? 🥺](https://ko-fi.com/prettydamntired)
 
@@ -14,7 +14,11 @@
 
 ## Connect With Me
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamharryliu/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harryliu1995@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/prettydamntired/) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22z5agodra7fwhm2erdqn5bjq) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/prettydamntired)
+
+</div>
 
 ## Github Action Statuses
 
@@ -29,8 +33,6 @@
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=iamharryliu&theme=dark)](https://git.io/streak-stats) -->
 
 ## Github Stats
-
-![Views](https://komarev.com/ghpvc/?username=iamharryliu)
 
 ![Metrics](/github-metrics.svg)
 
