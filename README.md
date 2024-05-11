@@ -36,4 +36,4 @@
 
 ## Github Stats
 
-<img src="/github-metrics.svg" alt="Metrics" style="height: 250px;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamharryliu" alt="Top Langs" style="height: 250px;">
+<img src="/github-metrics.svg" alt="Metrics" style="height: 300px;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamharryliu" alt="Top Langs" style="height: 300px;">
