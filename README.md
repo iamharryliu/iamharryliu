@@ -1,6 +1,6 @@
 ### Hi there! 👋 I am Harry, a software developer from Toronto, Canada 🇨🇦.
 
-<div style="float: right;">[![Views](https://komarev.com/ghpvc/?username=iamharryliu)]</div>
+<img src="https://komarev.com/ghpvc/?username=iamharryliu" alt="Views" style="float: right;">
 
 #### [Buy me coffee? 🥺](https://ko-fi.com/prettydamntired)
 
