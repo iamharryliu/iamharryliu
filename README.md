@@ -1,4 +1,6 @@
-### Hi there! 👋 I am Harry, a software developer from Toronto, Canada 🇨🇦. ![Views](https://komarev.com/ghpvc/?username=iamharryliu)
+### Hi there! 👋 I am Harry, a software developer from Toronto, Canada 🇨🇦.
+
+![Views](https://komarev.com/ghpvc/?username=iamharryliu)
 
 #### [Buy me coffee? 🥺](https://ko-fi.com/prettydamntired)
 
