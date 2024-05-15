@@ -4,6 +4,8 @@ I am a software enthusiast who is capable of handling your application needs _fr
 
 [![Projects Badge](https://img.shields.io/badge/Projects-20B2AA?style=for-the-badge)](https://harryliu.design/projects) [![Resume Badge](https://img.shields.io/badge/Resume-20B2AA?style=for-the-badge)](https://harryliu.design/assets/HarryLiu-Resume.pdf) [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamharryliu) [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamharryliu/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harryliu1995@gmail.com) [![Ko-Fi Badge](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/prettydamntired) [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/prettydamntired/) [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22z5agodra7fwhm2erdqn5bjq) [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/74043883-harry)
 
+<hr/>
+
 #### Expertise in:
 
 - **Software Design**: Application Architecture, REST API Design, UI/UX Design, Database Architecture
@@ -38,7 +40,3 @@ I am a software enthusiast who is capable of handling your application needs _fr
   <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Cypress" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=iamharryliu&theme=dark)](https://git.io/streak-stats) -->
-<!-- <img src="/github-metrics.svg" alt="Metrics" style="height: 300px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamharryliu" alt="Top Langs" style="height: 300px;"> -->
