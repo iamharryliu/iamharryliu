@@ -1,7 +1,6 @@
 ### Hey, I'm Harry 👋
 
-I am a software enthusiast who would love to hear what technical challenges you would like to overcome!  
-From _Toronto, Canada_ 🇨🇦, currently based in _Malmö, Sweden_ 🇸🇪.
+From _Toronto, Canada_ 🇨🇦, based in _Malmö, Sweden_ 🇸🇪.
 
 #### Expertise in:
 
