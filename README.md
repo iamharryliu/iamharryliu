@@ -1,11 +1,11 @@
-### Hey, I'm Harry 👋
+# README
 
-From _Toronto, Canada_ 🇨🇦, based in _Malmö, Sweden_ 🇸🇪.
+Hey, I am Harry. A software develoepr from _Toronto, Canada_ 🇨🇦, based in _Malmö, Sweden_ 🇸🇪.
 
 #### Expertise in:
 
 <ul>
-  <li><strong>Software Design</strong>: Application Architecture, REST API Design, UI/UX Design, Database Architecture</li>
+  <li><strong>Software Design</strong> -  Application Architecture, REST API Design, UI/UX Design</li>
 
   <li>
     <div style="display: flex; align-items: center; gap: 10px;">
@@ -18,28 +18,21 @@ From _Toronto, Canada_ 🇨🇦, based in _Malmö, Sweden_ 🇸🇪.
 
   <li>
     <div style="display: flex; align-items: center; gap: 10px;">
-      <strong>JavaScript Frameworks</strong>
-      <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" alt="Angular" />
-      <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="Express.js" />
-    </div>
-  </li>
-
-  <li>
-    <div style="display: flex; align-items: center; gap: 10px;">
-      <strong>Python Frameworks</strong>
-      <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" alt="Django" />
-      <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" alt="Flask" />
-    </div>
-  </li>
-
-  <li>
-    <div style="display: flex; align-items: center; gap: 10px;">
-      <strong>CI/CD</strong>
+      <strong>CI Tooling</strong>
       <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="Github Actions" />
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/npm-%23CB3837?logo=npm&logoColor=white" alt="npm" />
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" alt="Terraform" />
+    </div>
+  </li>
+
+  <li>
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <strong>Cloud</strong>
+      <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-web-services&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white" alt="Google Cloud" />
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white" alt="Cloudflare" />
     </div>
   </li>
 
@@ -52,12 +45,4 @@ From _Toronto, Canada_ 🇨🇦, based in _Malmö, Sweden_ 🇸🇪.
     </div>
   </li>
 
-  <li>
-    <div style="display: flex; align-items: center; gap: 10px;">
-      <strong>Cloud</strong>
-      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white" alt="Google Cloud" />
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white" alt="Cloudflare" />
-    </div>
-  </li>
 </ul>
