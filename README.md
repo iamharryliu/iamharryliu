@@ -1,13 +1,8 @@
 # README
 
-Hey, I am Harry. A software developer from _Toronto, Canada_ 🇨🇦, based in _Malmö, Sweden_ 🇸🇪.
+Software developer from Toronto, Canada 🇨🇦, based in Malmö, Sweden 🇸🇪.
 
-#### Links:
-
-- [Personal Website](https://harryliu.dev/)
-- [GitHub Pages Projects](https://iamharryliu.github.io/vigilant-broccoli/)
-- [Resume](https://harryliu.dev/resume)
-- [LinkedIn](https://www.linkedin.com/in/iamharryliu/)
+[![Personal Website](https://img.shields.io/badge/Personal_Website-000000?logo=about.me&logoColor=white)](https://harryliu.dev/) [![GitHub Pages Projects](https://img.shields.io/badge/GitHub_Pages_Projects-222222?logo=github&logoColor=white)](https://iamharryliu.github.io/vigilant-broccoli/) [![Resume](https://img.shields.io/badge/Resume-4CAF50?logo=readthedocs&logoColor=white)](https://harryliu.dev/resume) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamharryliu/)
 
 #### Expertise in:
 
