@@ -1,50 +1,22 @@
-# README
+### Hey, I'm Harry 👋
 
-Software developer from Toronto, Canada 🇨🇦, based in Malmö, Sweden 🇸🇪.
+I am a software enthusiast who would love to hear what technical challenges you would like to overcome!
+From _Toronto, Canada_ 🇨🇦, currently based in _Malmö, Sweden_ 🇸🇪.
 
-[![Personal Website](https://img.shields.io/badge/Personal_Website-000000?logo=about.me&logoColor=white)](https://harryliu.dev/) [![GitHub Pages Projects](https://img.shields.io/badge/GitHub_Pages_Projects-222222?logo=github&logoColor=white)](https://iamharryliu.github.io/vigilant-broccoli/) [![Resume](https://img.shields.io/badge/Resume-4CAF50?logo=readthedocs&logoColor=white)](https://harryliu.dev/resume) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamharryliu/)
+[![harryliu.dev](https://img.shields.io/badge/harryliu.dev-000000)](https://harryliu.dev/) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/iamharryliu/) [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/iamharryliu) [![Resume Badge](https://img.shields.io/badge/Resume-4CAF50?style=flat&logo=readthedocs&logoColor=white)](https://harryliu.dev/assets/resume.pdf) [![Contact Badge](https://img.shields.io/badge/Contact-20B2AA?style=flat)](https://harryliu.dev/contact) [![Gmail Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harryliu1995@gmail.com)
 
 #### Expertise in:
 
-<ul>
-  <li><strong>Software Design</strong> -  Application Architecture, REST API Design, UI/UX Design</li>
+- **Agentic AI-Driven Development**: Agentic Workflow Design
+- **Software Design**: Application Design, REST API Design, UI/UX Design, Database Design, Test Design
+- **CICD**: Git, Docker, Cloud Services, Automation
 
-  <li>
-    <div style="display: flex; align-items: center; gap: 10px;">
-      <strong>Languages</strong>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-    </div>
-  </li>
+#### Personal interests:
 
-  <li>
-    <div style="display: flex; align-items: center; gap: 10px;">
-      <strong>CI Tooling</strong>
-      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="Github Actions" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/npm-%23CB3837?logo=npm&logoColor=white" alt="npm" />
-      <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" alt="Terraform" />
-    </div>
-  </li>
+[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/22z5agodra7fwhm2erdqn5bjq) [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=flat&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/74043883-harry) [![MyAnimeList Badge](https://img.shields.io/badge/Myanimelist-2E51A2?style=flat&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/prettydamntired) [![IMBd Badge](https://img.shields.io/badge/IMDb-F5C518?logo=imdb&logoColor=000)](https://myanimelist.net/profile/prettydamntired)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/prettydamntired/) [![TorontoCitySkate Badge](https://img.shields.io/badge/Toronto_City_Skate-20B2AA?style=flat)](https://www.instagram.com/torontocityskate/) [![Cloud8Skate Badge](https://img.shields.io/badge/Cloud8Skate-20B2AA?style=flat)](https://cloud8skate.com/) [![Secondhand Store](https://img.shields.io/badge/Secondhand_Store-20B2AA?style=flat)](https://www.instagram.com/harrysellsshit/)
 
-  <li>
-    <div style="display: flex; align-items: center; gap: 10px;">
-      <strong>Cloud</strong>
-      <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-web-services&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white" alt="Google Cloud" />
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white" alt="Cloudflare" />
-    </div>
-  </li>
-
-  <li>
-    <div style="display: flex; align-items: center; gap: 10px;">
-      <strong>Databases</strong>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="Postgres" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
-    </div>
-  </li>
-
-</ul>
+[![Food](https://img.shields.io/badge/🍔_Food_Spots-20B2AA?style=flat)](https://maps.app.goo.gl/Vm1PmWbGbbV6ftD86) [![Drink](https://img.shields.io/badge/🥤_Beverage_Spots-20B2AA?style=flat)](https://maps.app.goo.gl/qWopvXmCnxn3WXxR8) [![Dessert](https://img.shields.io/badge/🍨_Dessert_Spots-20B2AA?style=flat)](https://maps.app.goo.gl/1UqRzLEPdfzoYgJE6) [![Work Cafes](https://img.shields.io/badge/🧑‍💻_Work_Cafes-20B2AA?style=flat)](https://maps.app.goo.gl/eXVHPQRZgcNGekeV8)
+[![Parks](https://img.shields.io/badge/🏞️_Parks-20B2AA?style=flat)](https://maps.app.goo.gl/eUoBxWQ4AEgkKqo87) [![Hiking](https://img.shields.io/badge/🥾_Hiking_Spots-20B2AA?style=flat)](https://maps.app.goo.gl/tsXqEsDxfpRQqdH39) [![Skate](https://img.shields.io/badge/🛹_Skate_Spots-20B2AA?style=flat)](https://maps.app.goo.gl/xNK9fZqokRFTdxPD8)
+[![Museums and Galleries](https://img.shields.io/badge/🖼️_Museums_and_Galleries-20B2AA?style=flat)](https://maps.app.goo.gl/CKpbtVuNWe77PPNj7) [![Music Venues](https://img.shields.io/badge/🎶_Music_Venues-20B2AA?style=flat)](https://maps.app.goo.gl/Mbzr4JsFmDF3NTj16) [![Shopping](https://img.shields.io/badge/🛒_Shopping-20B2AA?style=flat)](https://maps.app.goo.gl/wy4hepNkFaocei2H7) [![Other Activities](https://img.shields.io/badge/Other_Activities-20B2AA?style=flat)](https://maps.app.goo.gl/oadYKuGkHwH1DoQX7)
+[![Accomodations](https://img.shields.io/badge/🏨_Accomodations-20B2AA?style=flat)](https://maps.app.goo.gl/6ZkoBuAXcJTd2zdD7) [![Parking](https://img.shields.io/badge/🅿️_Parking-20B2AA?style=flat)](https://maps.app.goo.gl/BiZ8yHGQvWCZi1MU9)
