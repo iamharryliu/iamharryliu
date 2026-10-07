@@ -5,7 +5,7 @@ From _Toronto, Canada_ 🇨🇦, currently based in _Malmö, Sweden_ 🇸🇪.
 
 <!-- managed:repo-stats:start -->
 
-Proud maintainer of [vigilant-broccoli](https://github.com/iamharryliu/vigilant-broccoli) supporting **9 applications**, **5 API services**, **7 Docker images** and **4 npm packages**.
+Proud maintainer of [vigilant-broccoli](https://github.com/iamharryliu/vigilant-broccoli) supporting **10 applications**, **5 API services**, **7 Docker images** and **4 npm packages**.
 
 <!-- managed:repo-stats:end -->
 
